@@ -1,4 +1,5 @@
 <template>
+  <div>大家都會用到的功能，但還沒有要上版</div>
   <h1>Feature 1</h1>
   <h1>Feature 2</h1>
   <h2>Feature 2.2</h2>
