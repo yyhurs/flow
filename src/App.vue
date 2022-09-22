@@ -1,5 +1,7 @@
 <template>
   <h1>Feature 1</h1>
+  <h1>Feature 2</h1>
+  <h2>Feature 2.2</h2>
   <HelloWorld msg="Welcome to Your Vue.js App" />
 </template>
 
