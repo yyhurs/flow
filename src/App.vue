@@ -1,6 +1,7 @@
 <template>
   <h1>Feature 1</h1>
   <HelloWorld msg="Welcome to Your Vue.js App" />
+  <h3>f3</h3>
 </template>
 
 <script>
