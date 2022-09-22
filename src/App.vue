@@ -4,6 +4,7 @@
   <h2>Feature 2.2</h2>
   <HelloWorld msg="Welcome to Your Vue.js App" />
   <h3>f3</h3>
+  <div>f5</div>
 </template>
 
 <script>
