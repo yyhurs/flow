@@ -8,6 +8,7 @@
   <div>f5</div>
   <div>f5-2</div>
   <div>f7</div>
+  <div>f8</div>
 </template>
 
 <script>
